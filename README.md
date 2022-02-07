@@ -7,7 +7,7 @@ How to compile files?
 You can compile code by yourself and create executable file on Ubuntu by typing command "gcc program1.c -o program1". This command will create "program1" executable file in same folder which you can call from System Terminal.
 
 2) Program2.c file. 
-As program 2 works with thread, we have to mention it for Linker which participates in creating executable file. Type following command "gcc program2.c -o program2 -lpthread"
+As Program 2 works with threads, we have to mention it for Linker which participates in creating executable file. Type following command "gcc program2.c -o program2 -lpthread"
 
 How to run existing (or compiled) executable file?
 Open terminal in the same folder, then type "./program1" or "./program2" depending on which file you want to run.
