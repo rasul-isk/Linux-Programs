@@ -20,3 +20,7 @@ Demonstration of Race Condition and Critical Section Problem
 Solution of Critical Section problem by adding Mutex Lock
 Demonstration of Deadlock 
 Demonstration of Starvation
+
+To get better understanding of programs concepts you can check document below.
+
+[Specification.pdf](https://github.com/rasul-isk/Linux-Programs/files/9482800/Specification.pdf)
