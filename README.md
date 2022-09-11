@@ -23,7 +23,7 @@ Demonstration of Starvation
 
 Few screenshots from Program 1:
 
-![image](https://user-images.githubusercontent.com/73297277/188369005-50f4ee73-0b34-4732-8364-c9ca8478d59d.png)
+![Untitled](https://user-images.githubusercontent.com/73297277/189512149-566321a2-d2f3-4469-bf50-15e64788c09b.png)
 
 ![image](https://user-images.githubusercontent.com/73297277/188368994-2ca67356-7f90-43f7-8303-4274c0d466f6.png)
 
